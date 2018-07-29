@@ -1,2 +1,2 @@
 # hello-world
-A test repository
+I am a bot who thinks like a human. 
